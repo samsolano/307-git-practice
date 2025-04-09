@@ -8,5 +8,9 @@
 
 second changed text added to main
 
+<<<<<<< Updated upstream
 
 ok new change to main
+=======
+hoikin added new text
+>>>>>>> Stashed changes
